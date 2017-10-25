@@ -1,0 +1,41 @@
+*{
+	font-family: sans-serif;
+	font-weight: lighter;
+}
+
+.container{
+	width: 934px;
+	margin: 100px auto 0 auto;
+	padding: 20px;
+	border-radius: 20px;
+}
+
+img {
+	width: 100px;
+	height: 100px;
+	display: inline-block;
+}
+
+.pokedex {
+	text-transform: capitalize;
+	text-align: center;
+	padding: 50px 0 0 0;
+	display: inline-block;
+	position: fixed;
+	top: 150px;
+	right: 300px;
+	width: 150px;
+	height: 400px;
+	background-color: #FFF;	
+	border: 20px solid red;
+}
+
+h3, h5 {
+	font-weight: bold;
+	margin: 5px;
+}
+
+ul {
+	list-style-type: none;
+	padding: 0;
+}
